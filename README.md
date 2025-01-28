@@ -14,4 +14,4 @@ and uses Winter Water identified from: [The observed spatiotemporal variability 
 
 - `src/`: Contains all the notebooks and scripts for the project. These scripts include analysis and visualisation.
 - `functions/`: Contains the functions written by T.S. used in `src/` for the project.
-  - note that `functions/` does not contain the [NSIDC polar stereo](https://github.com/nsidc/polarstereo-lonlat-convert-py/tree/main) coordinates transformation functions used for transform sea ice coordinates from (x,y) to (lat,lon)
+  - note that `functions/` does not contain the [NSIDC polar stereo](https://github.com/nsidc/polarstereo-lonlat-convert-py/tree/main) coordinates transformation functions used to transform sea ice coordinates from (x,y) to (lat,lon)
